@@ -1,0 +1,16 @@
+{
+    "billing_name": "Riley Brown",
+    "email": "someguy@gmail.com",
+    "tel": "347-123-2000",
+    "billing_address": "Forest Street 58",
+    "billing_address_2": "Apt 2A",
+    "billing_zip": "10101",
+    "billing_city": "New York City",
+    "billing_state": "NY",
+    "billing_country": "USA",
+    "card_cnb": "4424 9068 7255 8398",
+    "card_month": "01",
+    "card_year": "2020",
+    "card_cvv": "232",
+    "variants": ["59775"]
+}
